@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Laptop",
+        "type": "Electronics"
+    },
+    {
+        "name": "Desktop Computer",
+        "type": "Electronics"
+    },
+    {
+        "name": "Printer",
+        "type": "Electronics"
+    },
+    {
+        "name": "Projector",
+        "type": "Electronics"
+    },
+    {
+        "name": "Scanner",
+        "type": "Electronics"
+    },
+    {
+        "name": "Phone",
+        "type": "Electronics"
+    },
+    {
+        "name": "Tablet",
+        "type": "Electronics"
+    },
+    {
+        "name": "Server",
+        "type": "Electronics"
+    },
+    {
+        "name": "Switch",
+        "type": "Electronics"
+    },
+    {
+        "name": "Router",
+        "type": "Electronics"
+    },
+    {
+        "name": "Camera",
+        "type": "Electronics"
+    },
+    {
+        "name": "Microphone",
+        "type": "Electronics"
+    },
+    {
+        "name": "Headphones",
+        "type": "Electronics"
+    },
+    {
+        "name": "Monitor",
+        "type": "Electronics"
+    },
+    {
+        "name": "Keyboard",
+        "type": "Electronics"
+    },
+    {
+        "name": "Mouse",
+        "type": "Electronics"
+    },
+    {
+        "name": "External Hard Drive",
+        "type": "Electronics"
+    },
+    {
+        "name": "USB Flash Drive",
+        "type": "Electronics"
+    },
+    {
+        "name": "Network Cable",
+        "type": "Electronics"
+    },
+    {
+        "name": "Ethernet Switch",
+        "type": "Electronics"
+    },
+    {
+        "name": "Wireless Access Point",
+        "type": "Electronics"
+    },
+    {
+        "name": "Security Camera",
+        "type": "Electronics"
+    },
+    {
+        "name": "Conference Room Speaker",
+        "type": "Electronics"
+    },
+    {
+        "name": "Whiteboard",
+        "type": "Office Supplies"
+    },
+    {
+        "name": "Projector Screen",
+        "type": "Office Supplies"
+    },
+    {
+        "name": "Presentation Clicker",
+        "type": "Office Supplies"
+    },
+    {
+        "name": "Wireless Presenter",
+        "type": "Office Supplies"
+    },
+    {
+        "name": "Video Conferencing System",
+        "type": "Electronics"
+    },
+    {
+        "name": "VoIP Phone",
+        "type": "Electronics"
+    },
+    {
+        "name": "Print Server",
+        "type": "Electronics"
+    },
+    {
+        "name": "UPS (Uninterruptible Power Supply)",
+        "type": "Electronics"
+    },
+    {
+        "name": "Server Rack",
+        "type": "Electronics"
+    },
+    {
+        "name": "Patch Panel",
+        "type": "Electronics"
+    },
+    {
+        "name": "Server Cabinet",
+        "type": "Electronics"
+    },
+    {
+        "name": "Firewall",
+        "type": "Electronics"
+    },
+    {
+        "name": "Network Router",
+        "type": "Electronics"
+    },
+    {
+        "name": "Wireless Router",
+        "type": "Electronics"
+    },
+    {
+        "name": "Network Switch",
+        "type": "Electronics"
+    },
+    {
+        "name": "Network Hub",
+        "type": "Electronics"
+    },
+    {
+        "name": "Network Bridge",
+        "type": "Electronics"
+    },
+    {
+        "name": "Network Gateway",
+        "type": "Electronics"
+    },
+    {
+        "name": "Server Room Cooling System",
+        "type": "Electronics"
+    },
+    {
+        "name": "Backup Generator",
+        "type": "Electronics"
+    },
+    {
+        "name": "Battery Backup",
+        "type": "Electronics"
+    },
+    {
+        "name": "Office Chair",
+        "type": "Furniture"
+    },
+    {
+        "name": "Desk",
+        "type": "Furniture"
+    },
+    {
+        "name": "File Cabinet",
+        "type": "Furniture"
+    },
+    {
+        "name": "Conference Table",
+        "type": "Furniture"
+    },
+    {
+        "name": "Desk Lamp",
+        "type": "Office Supplies"
+    },
+    {
+        "name": "Shredder",
+        "type": "Office Supplies"
+    },
+    {
+        "name": "Paper Shredder",
+        "type": "Office Supplies"
+    }
+]
